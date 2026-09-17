@@ -151,8 +151,3 @@ npx netlify deploy --prod --dir=dist
 ```
 
 ---
-
-## 📄 License
-
-Created by **[Abhiwan Technology](https://abhiwan.com)**. All rights reserved.
-For integration inquiries (Shopify, WooCommerce, custom e-commerce apps), contact the engineering team.
