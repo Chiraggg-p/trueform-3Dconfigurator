@@ -1,0 +1,11 @@
+{
+  "title": "Abhiwan Technology",
+  "description": "Enterprise 3D Configurator Platform, 3D Product Modeling & WebAR Experiences by Abhiwan Technology.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
